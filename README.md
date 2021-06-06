@@ -1,7 +1,6 @@
 ### Hi I'm Lei Li
 
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=leili-uchicago&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=leili-uchicago&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&count_private=true" />
 
 I'm a senior postdoc in Wilson Lab, Uchicago.
 I am interested in developing computational tools and algorithms to facilitate biological researches.
