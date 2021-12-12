@@ -15,30 +15,12 @@ I am interested in developing computational tools and algorithms to facilitate b
 
 </br>
 
-## Recent projects
-<a href="https://wilsonimmunologylab.github.io/VGenes/">
-  <img src="https://wilsonimmunologylab.github.io/VGenes/img/logo.png" style="height:20px;width:20px;margin-left:30px;" />
-    VGenes: an integrated graphical tool for efficient, comprehensive and multimodal analyses of massive B-cell repertoire sequences.
-</a>
+## RECENT PROJECTS
 
-</br>
+<img src="https://wilsonimmunologylab.github.io/VGenes/img/logo.png" align="left" height="80px" width="80px" style="margin-right: 20px; margin-bottom: 20px;">  [VGenes](https://wilsonimmunologylab.github.io/VGenes/): an integrated graphical tool for efficient, comprehensive and multimodal analyses of massive B-cell repertoire sequences.<br> &nbsp; &nbsp; <br> &nbsp; &nbsp; <br> 
 
-<a href="https://wilsonimmunologylab.github.io/Librator/">
-  <img src="https://wilsonimmunologylab.github.io/Librator/img/logo.png" style="height:20px;width:20px;margin-left:30px;" />
-    Librator: a platform for optimized sequence editing, design, and expression of influenza virus proteins.
-</a>
-</br>
+<img src="https://wilsonimmunologylab.github.io/Librator/img/logo.png" align="left" height="80px" width="80px" style="margin-right: 20px; margin-bottom: 20px;">  [Librator](https://wilsonimmunologylab.github.io/Librator/): a platform for optimized sequence editing, design, and expression of influenza virus proteins.<br> &nbsp; &nbsp; <br> &nbsp; &nbsp; <br> 
 
-<a href="https://wilsonimmunologylab.github.io/LinQView/">
-  <img src="https://wilsonimmunologylab.github.io/LinQView/img/linklogo.png" style="height:20px;width:20px;margin-left:30px;"/>
-    LinQ-View is a joint single cell analysis strategy that could integrate information from both transcriptome and surface protein markers for cell heterogeneity identification.
-</a>
-</br>
+<img src="https://wilsonimmunologylab.github.io/LinQView/img/linklogo.png" align="left" height="80px" width="80px" style="margin-right: 20px; margin-bottom: 20px;">  [LinQ-View](https://wilsonimmunologylab.github.io/LinQView/) is a joint single cell analysis strategy that could integrate information from both transcriptome and surface protein markers for cell heterogeneity identification. <br> &nbsp; &nbsp;  <br> 
 
-<a href="https://wilsonimmunologylab.github.io/Cookie/">
-  <img src="https://wilsonimmunologylab.github.io/Cookie/img/logo.png" style="height:20px;width:20px;margin-left:30px;"/>
-    Cookie: Selecting representative samples from single cell atlas using k-medoids clustering.
-</a>
-
-
-
+<img src="https://wilsonimmunologylab.github.io/Cookie/img/logo.png" align="left" height="80px" width="80px" style="margin-right: 20px; margin-bottom: 20px;">  [Cookie](https://wilsonimmunologylab.github.io/Cookie/): Selecting representative samples from single cell atlas using k-medoids clustering.<br> &nbsp; &nbsp; <br> &nbsp; &nbsp; <br> 
