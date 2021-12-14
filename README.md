@@ -1,6 +1,6 @@
 ### Hi there, I'm Lei Li
 
-## I'm a Senior Bioinformatics Analyst in Wilson Lab, Drukier Institute for Children's Health, Weill Cornell Medicine.
+## I'm a Senior Bioinformatics Analyst in Drukier Institute for Children's Health, Weill Cornell Medicine.
 I am interested in developing computational tools and algorithms to facilitate biological researches.
 
 
