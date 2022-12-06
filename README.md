@@ -1,12 +1,11 @@
 ### Hi there, I'm Lei Li
 
-## I'm a Senior Bioinformatics Analyst in Drukier Institute for Children's Health, Weill Cornell Medicine.
+## I'm a Senior Bioinformatics Research Scientist at Center for Applied Bioinformatics, St. Jude Children's Research Hospital.
 I am interested in developing computational tools and algorithms to facilitate biological researches.
-
 
 - Read more about my [Personal page](https://leili-uchicago.github.io/)
 - Read more about my [Research](https://scholar.google.com/citations?user=3qt2VoAAAAAJ&hl=en)
-- Reach me out by [Personal Email](mailto:leilioxford@gmail.com) or [Work email](mailto:leil@uchicago.edu)
+- Reach me out by [Personal Email](mailto:leilioxford@gmail.com) or [Work email](mailto:lei.li@stjude.org)
 
 <a href="https://leili-uchicago.github.io/">
     <img src="https://github-readme-stats.vercel.app/api?username=leili-uchicago&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&count_private=true" />
