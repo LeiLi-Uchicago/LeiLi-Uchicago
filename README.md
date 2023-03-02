@@ -1,6 +1,6 @@
 ### Hi there, I'm Lei Li
 
-## I'm a Senior Bioinformatics Research Scientist at Center for Applied Bioinformatics, St. Jude Children's Research Hospital.
+## I'm a Lead Bioinformatics Research Scientist at Center for Applied Bioinformatics, St. Jude Children's Research Hospital.
 I am interested in developing computational tools and algorithms to facilitate biological researches.
 
 - Read more about my [Personal page](https://leili-uchicago.github.io/)
