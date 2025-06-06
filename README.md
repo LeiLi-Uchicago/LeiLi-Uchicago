@@ -17,7 +17,7 @@ I am interested in developing computational tools and algorithms to facilitate b
 ## RECENT PROJECTS
 <img src="https://github.com/stjudecab/RSVreconPy/blob/main/Resource/RSV_icon.png" align="left" height="80px" width="80px" style="margin-right: 20px; margin-bottom: 20px;">  [RSVrecon](https://github.com/stjudecab/RSVreconPy): An efficient workflow to screen clinically relevant genomic variations of RSV from NGS data.<br> &nbsp; &nbsp; <br> &nbsp; &nbsp; <br> <br> 
 
-<img src="https://wilsonimmunologylab.github.io/VGenes/img/logo.png" align="left" height="80px" width="80px" style="margin-right: 20px; margin-bottom: 20px;"> A hybrid demultiplexing strategy that improves performance and robustness of cell hashing. [Paper](https://academic.oup.com/bib/article/25/4/bbae254/7686601?login=false) [Github](https://github.com/WilsonImmunologyLab/HTOreader) <br> &nbsp; &nbsp; <br> &nbsp; &nbsp; <br> <br> 
+<img src="https://leili-uchicago.github.io/img/Htoreader_icon.png" align="left" height="80px" width="80px" style="margin-right: 20px; margin-bottom: 20px;"> A hybrid demultiplexing strategy that improves performance and robustness of cell hashing. [Paper](https://academic.oup.com/bib/article/25/4/bbae254/7686601?login=false) [Github](https://github.com/WilsonImmunologyLab/HTOreader) <br> &nbsp; &nbsp; <br> &nbsp; &nbsp; <br> <br> 
 
 <img src="https://wilsonimmunologylab.github.io/VGenes/img/logo.png" align="left" height="80px" width="80px" style="margin-right: 20px; margin-bottom: 20px;">  [VGenes](https://wilsonimmunologylab.github.io/VGenes/): an integrated graphical tool for efficient, comprehensive and multimodal analyses of massive B-cell repertoire sequences.<br> &nbsp; &nbsp; <br> &nbsp; &nbsp; <br> <br> 
 
