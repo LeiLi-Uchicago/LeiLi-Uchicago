@@ -9,7 +9,7 @@ I am interested in developing computational tools and algorithms to facilitate b
 
 <a href="https://leili-uchicago.github.io/">
     <!-- <img src="https://github-readme-stats.vercel.app/api?username=leili-uchicago&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&count_private=true" /> -->
-    <img src="https://github-profile-trophy.vercel.app/?username=leili-uchicago&theme=flat&title=Stars,Followers,Commit,MultiLanguage&margin-w=5&row=1&column=4" />
+    <!-- <img src="https://github-profile-trophy.vercel.app/?username=leili-uchicago&theme=flat&title=Stars,Followers,Commit,MultiLanguage&margin-w=5&row=1&column=4" /> -->
 </a>
 
 </br>
